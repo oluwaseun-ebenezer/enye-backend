@@ -1,0 +1,27 @@
+{
+  "name": "enye-backend",
+  "version": "1.0.0",
+  "description": "This is an internship challenge to be completed within 7 days. I wish myself goodluck. Cheers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluwaseun-ebenezer/enye-backend.git"
+  },
+  "keywords": [
+    "Rest",
+    "API"
+  ],
+  "author": "Oluwaseun Aderinlokun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oluwaseun-ebenezer/enye-backend/issues"
+  },
+  "homepage": "https://github.com/oluwaseun-ebenezer/enye-backend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
